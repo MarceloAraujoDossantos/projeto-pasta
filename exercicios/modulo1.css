@@ -5,9 +5,11 @@ body{
   overflow-x: scroll;
 }
 a{
-  text-decoration: none;
+  
+  text-align: center;
   color: white;
   font-size: 30px;
+
 
  
 }
