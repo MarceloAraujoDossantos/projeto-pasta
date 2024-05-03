@@ -3,13 +3,21 @@ body{
   background-color: black;
   color: white;
   overflow-x: scroll;
-}
-a{
+  background-image: linear-gradient(to bottom, #d8f5d1 , #9ddbca 0%);
   
-  text-align: center;
-  color: white;
+}
+a:hover{
+  color: red;
   font-size: 30px;
-
-
+  
  
 }
+a{
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+  
+}
+li {
+  list-style-type: none;
+  text-align: center;

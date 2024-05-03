@@ -1,0 +1,23 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+  overflow-x: scroll;
+  background-image: linear-gradient(to bottom, #d8f5d1 , #9ddbca 0%);
+  margin-top: 40px;
+}
+a:hover{
+  color: red;
+  font-size: 30px;
+ 
+}
+a{
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
+  
+}
+li {
+  list-style-type: none;
+  text-align: center;
+}

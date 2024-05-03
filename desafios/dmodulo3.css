@@ -4,6 +4,7 @@ body{
   color: white;
   overflow-x: scroll;
   background-image: linear-gradient(to bottom, #d8f5d1 , #9ddbca 0%);
+  margin-top: 50px;
   
 }
 a:hover{
@@ -14,7 +15,6 @@ a:hover{
 a{
   color: black;
   font-size: 30px;
-  text-decoration: none;
   
 }
 li {
