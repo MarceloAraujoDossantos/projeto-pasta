@@ -1,0 +1,30 @@
+table{
+  margin-left: 1225px;
+  color: rgb(49, 46, 46);
+}
+th{
+  width: 55px;
+}
+.g1{
+  color: blue;
+  font-size: 90px;
+}
+.ta1{
+  padding: 150px;
+  margin: auto;
+}
+.g2{
+  color: red;
+}
+.g3{
+  color: #f0f014;
+}
+.g4{
+  color: blue;
+}
+.g5{
+  color: forestgreen;
+}
+.g6{
+  color: red;
+}
